@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637183836447",
+    "project_id": "udemy-course-41826",
+    "storage_bucket": "udemy-course-41826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637183836447:android:d7354bc718d566bfe5f02a",
+        "android_client_info": {
+          "package_name": "com.example.udemy_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637183836447-23rpcls0thu18oqmkj4e6tj3fgmgmf2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXmsv6AlKO6aAV5qsoFsMuW8WnuuquDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637183836447-23rpcls0thu18oqmkj4e6tj3fgmgmf2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
